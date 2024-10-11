@@ -1,5 +1,5 @@
 setclipboard("Max Hub Kaitun")
-game:GetService("Players").LocalPlayer:Kick("\nI support Max Hub\for more updates")
+game:GetService("Players").LocalPlayer:Kick("\I support Max Hub\for more updates")
 
 spawn(function() 
 local LocalPlayer = game.Players.LocalPlayer
